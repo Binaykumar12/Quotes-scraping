@@ -1,1 +1,1 @@
-# google-search-result-
+# Here I have scrapped the quotes and their authors in a simple way using two python libraries requests and another one is beautiful soup.
